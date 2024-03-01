@@ -1,7 +1,8 @@
 # CrossCore-Luafix
 
 在[CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)的基础上提供更激进的`luascripts`修改。致力于提升每一位玩家的游戏体验。
-本项目发布的`luascripts`基于[CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)的发布版本，包含该仓库对应版本的所有修改。
+~~本项目发布的`luascripts`基于[CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)的发布版本，包含该仓库对应版本的所有修改。~~
+[CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)项目因为维护成本和作者本人精力问题已经放弃维护，本仓库也不会再提供文本反和谐功能。
 
 ## 使用
 
@@ -24,6 +25,7 @@
 <summary>详细记录</summary>
 
 - [2024.02.16](history/2024.02.16/2024.02.16.md) 修改角色查看界面的缩放范围。
+- [2024.03.01](history/2024.03.01/2024.03.01.md) 放弃文本反和谐功能。
 
 </details>
 
