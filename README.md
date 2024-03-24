@@ -4,6 +4,14 @@
 ~~本项目发布的`luascripts`基于[CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)的发布版本，包含该仓库对应版本的所有修改。~~
 [CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)项目因为维护成本和作者本人精力问题已经放弃维护，本仓库也不会再提供文本反和谐功能。
 
+## 重要！
+
+本项目无限期停止更新。
+如果需要继续使用本项目的功能以及更多的修改请参考文章[解密与修改交错战线的LuaScripts](https://blog.axix.top/index.php/2024/03/21/103/)和项目[CrossCore-Lua-Tool](https://github.com/AXiX-official/CrossCore-Lua-Tool)自行修改。
+
+<details>
+<summary>归档</summary>
+
 ## 使用
 
 (目前仅支持Android)
@@ -37,3 +45,5 @@
   - 再现初识交错战线的香草体验。
 - [CrossCore-Luascripts-Uncensored](https://github.com/AXiX-official/CrossCore-Luascripts-Uncensored)
   - 反和谐交错战线(CrossCore)的lua脚本(luascripts)中的文本内容。
+
+</details>
